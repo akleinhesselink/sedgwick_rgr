@@ -1,0 +1,32 @@
+current_code,current_name,prior_code,prior_name,RGR_experiment,drought,seed_available
+URLI,Uropappus lindleyi,AGHE,Agoseris heterophylla,1,1,1
+MIDO,Microseris douglasii,AGRE,Agoseris retrorsa,0,0,1
+AMME,Amsinckia menziesii,AMME,Amsinckia menziesii,1,0,1
+ANAR,Anagallis arvensis,ANAR,Anagallis arvensis,1,0,1
+BRMA,Bromus madritensis,BRMA,Bromus madritensis,1,1,1
+CEME,Centaurea melitensis,CEME,Centaurea melitensis,1,0,1
+CHGL,Chaenactis glabriuscula,CHGL,Chaenactis glabriuscula,1,1,1
+CHPA,Chorizanthe palmeri,CHPA,Chorizanthe palmeri,1,0,1
+CLBO,Clarkia bottae,CLBO,Clarkia bottae,1,0,1
+CLPU,Clarkia purpurea,CLPU,Clarkia purpurea,1,1,1
+ERMO,Erodium moschatum,ERBO,Erodium botrys,0,0,1
+ERCI,Erodium cicutarium,ERCI,Erodium cicutarium,1,0,1
+EUSP,Euphorbia spathulata,EUPE,Euphorbia peplus,1,1,1
+GECA,Geranium carolinianum,GECA,Geranium carolinianum,0,0,0
+HECO,Hemizonia congesta,HECO,Hemizonia congesta,1,1,1
+HOMU,Hordeum murinum,HOMU,Hordeum murinum,1,1,1
+LACA,Lasthenia californica,LACA,Lasthenia californica,1,1,1
+LASE,Lactuca serriola,LASE,Lactuca serriola,0,0,0
+ACAM,Acmispon americanus,LOPU,Lotus purshianus,1,0,0
+ACWR,Acmispon wrangelianus,LOWR,Lotus wrangelianus,1,1,1
+MEPO,Medicago polymorpha,MEPO,Medicago polymorpha,1,0,1
+MICA,Micropus californicus,MICA,Micropus californicus,1,1,1
+NAAT,Navarretia atractyloides,NAAT,Navarretia atractyloides,1,1,1
+NAMI,Navarretia mitracarpa,NAJA,Navarretia jaredii,0,0,0
+PLER,Plantago erecta,PLER,Plantago erecta,1,1,1
+SACO,Salvia columbariae,SACA,Salvia columbariae,1,1,1
+SIGA,Silene gallica,SIGA,Silene gallica,1,0,1
+TRWI,Trifolium willdenovii,TRWI,Trifolium willdenovii,0,0,0
+FEMI,Festuca microstachys,VUMI,Vulpia microstachys,1,1,1
+,,,,,,
+Total Number of species,,,,23,14,24

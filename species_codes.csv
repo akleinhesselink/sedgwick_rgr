@@ -1,0 +1,24 @@
+experiment_id,current_code,current_name,RGR_experiment,drought
+1,ACAM,Acmispon americanus,1,0
+2,ACWR,Acmispon wrangelianus,1,1
+3,AMME,Amsinckia menziesii,1,0
+4,ANAR,Anagallis arvensis,1,0
+5,BRMA,Bromus madritensis,1,1
+6,CEME,Centaurea melitensis,1,0
+7,CHGL,Chaenactis glabriuscula,1,1
+8,CHPA,Chorizanthe palmeri,1,0
+9,CLBO,Clarkia bottae,1,0
+10,CLPU,Clarkia purpurea,1,1
+11,ERCI,Erodium cicutarium,1,0
+12,EUSP,Euphorbia spathulata,1,1
+13,FEMI,Festuca microstachys,1,1
+14,HECO,Hemizonia congesta,1,1
+15,HOMU,Hordeum murinum,1,1
+16,LACA,Lasthenia californica,1,1
+17,MEPO,Medicago polymorpha,1,0
+18,MICA,Micropus californicus,1,1
+19,NAAT,Navarretia atractyloides,1,1
+20,PLER,Plantago erecta,1,1
+21,SACO,Salvia columbariae,1,1
+22,SIGA,Silene gallica,1,0
+23,URLI,Uropappus lindleyi,1,1
